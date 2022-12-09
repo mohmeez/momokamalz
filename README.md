@@ -1,4 +1,4 @@
-- 🤓 Hi, I’m Mohsin
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F7&width=435&lines=Hi+My+name+is+Mohsin)](https://git.io/typing-svg)
 - 📖 Studying Bachelor of Artificial Intelligence
 - 👨‍🎓 Currently learning neural networks
 - 🤖 loading....Humanoid transformation Complete
